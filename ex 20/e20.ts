@@ -1,0 +1,4 @@
+//Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
+
+let countries = ["Palestine","Kuwait","Oman","Iran","SaudiaArab"];
+console.log("I Would Like To Visit",countries);
